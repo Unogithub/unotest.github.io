@@ -1,0 +1,10 @@
+body {background-image: url(backgroundimage.jpg);
+background-size:cover;
+}
+
+h1, p {
+	color: red;
+	text-align: center;
+	border: 5px solid black;
+}
+
